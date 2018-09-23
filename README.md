@@ -1,2 +1,5 @@
 # hello-world
-Starting repo
+
+Hi all!
+
+I'm a Data Scientist who is starting to use Git(hub) for my work.
